@@ -1,4 +1,4 @@
-export const common = {
+const common = {
   remote: 'Remote',
   marketing: 'Marketing',
   deFi: 'DeFi',
@@ -93,7 +93,7 @@ export const common = {
   edit: 'Edit',
 }
 
-export const company = {
+const company = {
   companyProperties: 'Company Properties',
   locations: 'Locations',
   interviewProcess: 'Interview Process',
@@ -108,7 +108,7 @@ export const company = {
   applyTo: 'Apply to crypto jobs at {{companyName}}:',
 }
 
-export const job = {
+const job = {
   apply: 'Apply now',
   featured: 'Featured Job Opportunity',
   applications: 'applications',
@@ -133,7 +133,7 @@ export const job = {
   },
 }
 
-export const jobForm = {
+const jobForm = {
   aboutCompany: 'About your company',
   salaryRange: 'Salary Range',
   screeningQuestions: 'Screening Questions',
@@ -149,7 +149,7 @@ export const jobForm = {
   aboutCrypto: 'How did you hear about Crypto Jobs List?',
 }
 
-export const landing = {
+const landing = {
   findYourJob: 'Find your next blockchain job.',
   trusted: "Trusted by World's leading Blockchain Companies:",
   discoverJobs:
@@ -159,7 +159,7 @@ export const landing = {
   hiringTalent: 'Hiring {{keyword}} Talent?',
 }
 
-export const salaries = {
+const salaries = {
   title: 'Blockchain Salaries',
   benchmark: 'Benchmark your compensation against others.',
   totalAnnualSalary: '💸 Total Annual Salary (in USD)',
@@ -177,4 +177,4 @@ export const salaries = {
   salaries: 'Salaries',
 }
 
-export default { common, company, job, jobForm, landing, salaries }
+module.exports = { common, company, job, jobForm, landing, salaries }

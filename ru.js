@@ -1,4 +1,4 @@
-export const common = {
+const common = {
   remote: 'Удалённо',
   marketing: 'Маркетинг',
   deFi: 'DeFi',
@@ -93,7 +93,7 @@ export const common = {
   edit: 'Редактировать',
 }
 
-export const company = {
+const company = {
   companyProperties: 'Категории',
   locations: 'Офисы в',
   interviewProcess: 'Интервью процесс',
@@ -108,7 +108,7 @@ export const company = {
   applyTo: 'Крипто работы в {{companyName}}:',
 }
 
-export const job = {
+const job = {
   apply: 'Откликнуться на вакансию',
   featured: 'Супер вакансия!',
   applications: 'заявок',
@@ -133,7 +133,7 @@ export const job = {
   },
 }
 
-export const jobForm = {
+const jobForm = {
   aboutCompany: 'Про вашу компанию',
   salaryRange: 'Зарптала',
   screeningQuestions: 'Предварительные вопросы интервью',
@@ -148,7 +148,7 @@ export const jobForm = {
   aboutCrypto: 'Где вы услышали про Crypto Jobs List?',
 }
 
-export const landing = {
+const landing = {
   findYourJob: 'Самый большой сайт для поиска работы в Блокчейи и Криптовалютах',
   trusted: 'Лучшие Блокчейи и Крипто компании мира пользуются нами:',
   discoverJobs:
@@ -158,7 +158,7 @@ export const landing = {
   hiringTalent: 'Нанимаешь {{keyword}} специалистов?',
 }
 
-export const salaries = {
+const salaries = {
   title: 'Зарплаты в Криптовалютных и Блокчейн компаниях',
   benchmark: 'Знай себе цену. Сравни свою зарплату с рынком.',
   totalAnnualSalary: '💸 Полная годовая компенсация (in USD)',
@@ -176,4 +176,4 @@ export const salaries = {
   salaries: 'Зарплаты',
 }
 
-export default { common, company, job, jobForm, landing, salaries }
+module.exports = { common, company, job, jobForm, landing, salaries }

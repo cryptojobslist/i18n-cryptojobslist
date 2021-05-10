@@ -10,6 +10,7 @@ We'd love your help translating Crypto Jobs List to more languages and making cr
 - Clone this repo
 - Make your contribution
 - Run tests - make sure they all pass
+- before your push, run `npm version patch` to bump version up
 - Make a pull request
 
 Thank you!

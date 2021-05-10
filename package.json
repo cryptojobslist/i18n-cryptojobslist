@@ -5,8 +5,10 @@
   "repository": "https://github.com/cryptojobslist/i18n-cryptojobslist",
   "author": "Raman Shalupau <raman@cryptojobslist.com>",
   "license": "MIT",
+  "private": true,
+  "type": "commonjs",
   "scripts": {
-    "test": "NODE_ENV=test mocha ./tests/*.test.*",
+    "test": "NODE_ENV=test mocha ./test/*.test.*",
     "prettier": "prettier --write \"./**/*.{js,jsx,json}\""
   },
   "devDependencies": {
