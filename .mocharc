@@ -1,0 +1,14 @@
+{
+  "diff": true,
+  "extension": ["js", "ts"],
+  "reporter": "spec",
+  "slow": 2000,
+  "timeout": 20000,
+  "ui": "bdd",
+  "require": ["chai/register-should", "chai/register-expect"],
+  "watch-files": ["./tests/*.test.js", "./tests/*.test.ts"],
+  "exclude": ["./node_modules/"],
+  "exit": true,
+  "bail": false,
+  "recursive": true
+}
