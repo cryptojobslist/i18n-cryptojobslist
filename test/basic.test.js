@@ -1,7 +1,11 @@
 const { expect } = require('chai')
+const locales = require('../')
 
-describe('basic test', () => {
-  it('equality', async () => {
-    expect(1).to.equal(1)
+describe('overall node package test', () => {
+  it('should be an object', async () => {
+    expect(locales).to.be.an('object')
+  })
+  it('should contain en locale', async () => {
+    expect(locales.en).to.be.an('object')
   })
 })
