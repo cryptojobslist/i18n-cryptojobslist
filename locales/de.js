@@ -53,6 +53,7 @@ const common = {
     successStories: 'Erfolgsstories',
     terms: 'Bedingungen',
     feedbackSupport: 'Feedback & Support',
+    helpUsTranslate: 'Hilfe beim Übersetzen ins Deutsche!',
   },
   jobCategories: {
     Engineering: '🛠 Engineering',

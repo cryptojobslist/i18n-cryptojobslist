@@ -53,6 +53,7 @@ const common = {
     successStories: 'Success Stories',
     terms: 'Terms',
     feedbackSupport: 'Feedback & Support',
+    helpUsTranslate: 'Help us translate!',
   },
   jobCategories: {
     Engineering: '🛠 Engineering',
