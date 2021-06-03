@@ -37,7 +37,7 @@ const common = {
   gender: 'Geschlecht',
   company: 'Firma',
   subscription: {
-    CTAText: "Lass die Banken nicht gewinnen!",
+    CTAText: 'Lass die Banken nicht gewinnen!',
     CTADescription: 'Die besten Jobs in crypto. Jede Woche. Abboniere hier:',
     email: 'Deine Email',
   },
@@ -92,6 +92,8 @@ const common = {
   filtersText: 'Filter ↓ sind in Beta. Vorsicht bugs.',
   giveFeedback: 'Gib Feedback',
   edit: 'Bearbeiten',
+  save: 'Save',
+  view: 'View',
 }
 
 const company = {
@@ -107,6 +109,12 @@ const company = {
   blockchainCompanyProfiles: 'Blockchainfirmenprofile',
   viewAll: 'Zeige alle Blockchainfirmen',
   applyTo: 'Bewerbe dich für Crypto Jobs bei {{companyName}}:',
+  teamPhoto: 'Team Photo',
+  email: 'Contact email (stays private)',
+  phone: 'Phone number (stays private)',
+  taxId: 'Tax Id',
+  invoiceDetails: 'Invoice Details',
+  classifyOrganization: `How'd you classify your organization?`,
 }
 
 const job = {
@@ -118,15 +126,14 @@ const job = {
   viewAll: 'Zeige alle Blockchain Jobs bei',
   hiring: '{{name}} sucht für {{company}}',
   blockchainQR: '{{company}} Blockchain Jobs QR code',
-  notPublished: "Dieses Angebot ist noch nicht veröffentlicht.",
+  notPublished: 'Dieses Angebot ist noch nicht veröffentlicht.',
   companiesIn: 'Blockchainfirmen in',
   similarBlockchainJobs: 'Ähnliche Blockchain Jobs:',
   applyFor: 'Bewerbe dich für {{jobTitle}} bei {{companyName}}',
   yourFullName: 'Dein Vollständiger Name',
   currentLocation: 'Aktueller Standort',
   salaryExpectations: 'Gehaltserwartung',
-  inviteCollegues:
-    'Lade Deine Mitarbeiter ein dich nach dieser Bewerbung zu <b>empfehlen</b>.',
+  inviteCollegues: 'Lade Deine Mitarbeiter ein dich nach dieser Bewerbung zu <b>empfehlen</b>.',
   JobApplicationForm: {
     title: 'Lade Deine Mitarbeiter ein dich zu empfehlen:',
     recommendation:
@@ -141,7 +148,7 @@ const jobForm = {
   question: 'Fragen',
   companyDetails: 'Firmendetails',
   website: 'Webseite',
-  getPersonal: "Zur Person",
+  getPersonal: 'Zur Person',
   emailForInvoice: 'Email für Lebensläufe. Bleibt privat.',
   firstName: 'Dein Vorname',
   lastName: 'Nachname',
@@ -152,7 +159,7 @@ const jobForm = {
 
 const landing = {
   findYourJob: 'Finde deinen nächsten Blockchain Job.',
-  trusted: "Wir helfen weltweit führenden Blockchainfirmen:",
+  trusted: 'Wir helfen weltweit führenden Blockchainfirmen:',
   discoverJobs:
     'Entdecke über 2048+ offene Blockchain-, Cryptowährungs- and Bitcoin-Jobs auf Crypto Jobs List — Die #1 Website für Arbeitssuchende und Arbeitgeber. Verbinde dich mit erstklassigen Firmen und beginne dein nächsten Karriereschritt.',
   startHiring: 'Einstellen',
@@ -166,7 +173,7 @@ const salaries = {
   totalAnnualSalary: '💸 Jährlicher Gehalt mit Zuschüssen (in USD)',
   annualSalary: 'Jährlicher Gehalt (USD)',
   lastParagraph:
-    "Sobald deine Anfrage von unserer Community reviewed wurde, wirst du Zugang zu allen Gehältern erhalten. Dieser Vorgang kann ein bis zwei Tage dauern.",
+    'Sobald deine Anfrage von unserer Community reviewed wurde, wirst du Zugang zu allen Gehältern erhalten. Dieser Vorgang kann ein bis zwei Tage dauern.',
   likeStats: 'Interessiert in diese stats? — Frage deine Freunde mitzumachen.',
   yearsExperience: 'Jahre Erfahrung',
   yearsAtCompany: 'Jahre bei der Firma',

@@ -92,6 +92,8 @@ const common = {
   filtersText: 'Фильтрация ↓ пока в Бэте. Что то может не работать.',
   giveFeedback: 'Нашёл баг? Есть фидбэк?',
   edit: 'Редактировать',
+  save: 'Save',
+  view: 'View',
 }
 
 const company = {
@@ -107,6 +109,12 @@ const company = {
   blockchainCompanyProfiles: 'Профили Блокчейн Компаний',
   viewAll: 'Посмотреть все Блокчейн Компании',
   applyTo: 'Крипто работы в {{companyName}}:',
+  teamPhoto: 'Team Photo',
+  email: 'Contact email (stays private)',
+  phone: 'Phone number (stays private)',
+  taxId: 'Tax Id',
+  invoiceDetails: 'Invoice Details',
+  classifyOrganization: `How'd you classify your organization?`,
 }
 
 const job = {
