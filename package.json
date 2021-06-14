@@ -14,6 +14,8 @@
   },
   "devDependencies": {
     "chai": "^4.3.4",
+    "chalk": "^4.1.1",
+    "lodash": "^4.17.21",
     "mocha": "^8.4.0",
     "prettier": "^2.3.0"
   }
