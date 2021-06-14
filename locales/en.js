@@ -152,7 +152,7 @@ const jobForm = {
   question: 'Question',
   question1Placeholder: 'Who is Satoshi?',
   question2Placeholder: "What's the difference between PoW and PoS?",
-  question3Placeholder: "Use simple questions, candidates can answer in 1 sentence.",
+  question3Placeholder: 'Use simple questions, candidates can answer in 1 sentence.',
   companyDetails: 'Company Details',
   website: 'Website',
   getPersonal: "Let's get personal!",
@@ -162,7 +162,7 @@ const jobForm = {
   applicationLink: 'Optional: Application Link',
   applicationLinkNotice: `Applicants will be redirected to this link. Applications will not be emailed to you.`,
   aboutCrypto: 'How did you hear about Crypto Jobs List?',
-  adBudgetTitle: "Set your budget for this ad:"
+  adBudgetTitle: 'Set your budget for this ad:',
 }
 
 const landing = {

@@ -151,8 +151,9 @@ const jobForm = {
   screeningQuestions: 'Скрининг интервью',
   question: 'Вопрос',
   question1Placeholder: 'Кто такой Сатоши?',
-  question2Placeholder: "В чём разница между PoS и PoW",
-  question3Placeholder: "Используйте прослые вопросы, на которые можно ответить в одно предложение.",
+  question2Placeholder: 'В чём разница между PoS и PoW?',
+  question3Placeholder:
+    'Используйте простлые вопросы, на которые можно ответить в одно предложение.',
   companyDetails: 'Детали Компании',
   website: 'Вэбсайт',
   getPersonal: 'Давайте познакомимся поближе',
@@ -162,7 +163,7 @@ const jobForm = {
   applicationLink: '(Опционально) Внешняя ссылка для подачи на эту вакансию',
   aboutCrypto: 'Где Вы услышали про Crypto Jobs List?',
   applicationLinkNotice: `Вы не будете получать резюмэ на имэйл. Кандидаты будут переадресованы на вашу ссылку`,
-  adBudgetTitle: "Ваш рекламный бюджет:"
+  adBudgetTitle: 'Ваш рекламный бюджет:',
 }
 
 const landing = {
