@@ -93,6 +93,8 @@ const common = {
   filtersText: 'Filters ↓ are in Beta. Expect bugs.',
   giveFeedback: 'Give feedback',
   edit: 'Edit',
+  save: 'Save',
+  view: 'View',
 }
 
 const company = {
@@ -108,6 +110,12 @@ const company = {
   blockchainCompanyProfiles: 'Blockchain company profiles',
   viewAll: 'View all Blockchain Companies',
   applyTo: 'Apply to crypto jobs at {{companyName}}:',
+  teamPhoto: 'Team Photo',
+  email: 'Contact email (stays private)',
+  phone: 'Phone number (stays private)',
+  taxId: 'Tax Id',
+  invoiceDetails: 'Invoice Details',
+  classifyOrganization: `How'd you classify your organization?`,
 }
 
 const job = {
