@@ -1,4 +1,5 @@
 const common = {
+  lang: 'English',
   remote: 'Remote',
   marketing: 'Marketing',
   deFi: 'DeFi',
