@@ -160,7 +160,7 @@ const jobForm = {
   emailForInvoice: 'Имэйл. Для резюмэ и счёта-фактуры (Отстаётся приватным)',
   firstName: 'Ваше Имя',
   lastName: 'Фамилия',
-  applicationLink: '(Опционально) Внешняя ссылка для подачи на эту вакансию',
+  applicationLink: 'Внешняя ссылка для подачи на эту вакансию',
   aboutCrypto: 'Где Вы услышали про Crypto Jobs List?',
   applicationLinkNotice: `Вы не будете получать резюмэ на имэйл. Кандидаты будут переадресованы на вашу ссылку`,
   adBudgetTitle: 'Ваш рекламный бюджет:',

@@ -159,7 +159,7 @@ const jobForm = {
   emailForInvoice: 'Email for resumes. Stays private.',
   firstName: 'Your First name',
   lastName: 'Last name',
-  applicationLink: 'Optional: Application Link',
+  applicationLink: 'Application Link',
   applicationLinkNotice: `Applicants will be redirected to this link. Applications will not be emailed to you.`,
   aboutCrypto: 'How did you hear about Crypto Jobs List?',
   adBudgetTitle: 'Set your budget for this ad:',

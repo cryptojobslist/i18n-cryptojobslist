@@ -153,7 +153,7 @@ const jobForm = {
   emailForInvoice: 'Email für Lebensläufe. Bleibt privat.',
   firstName: 'Dein Vorname',
   lastName: 'Nachname',
-  applicationLink: 'Optional: Bewerbungswebseite',
+  applicationLink: 'Bewerbungswebseite',
   applicationLinkNotice: `Bewerber werden zu dieser Webseite geleitet. Bewerbungen werden nicht per Email zugestellt.`,
   aboutCrypto: 'Wie hast du von Crypto Jobs List erfahren?',
 }
