@@ -114,6 +114,7 @@ const company = {
   email: 'Contact email (stays private)',
   phone: 'Phone number (stays private)',
   taxId: 'Tax Id',
+  billingEmail: 'Abrechnungs Email',
   invoiceDetails: 'Invoice Details',
   classifyOrganization: `How'd you classify your organization?`,
 }
