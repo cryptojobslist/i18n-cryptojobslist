@@ -20,6 +20,7 @@ const common = {
   category: 'Категория',
   engineering: 'Инженеринг',
   jobs: 'Работы',
+  talent: 'Кандидаты',
   companies: 'Компании',
   salaries: 'Зарплаты',
   stats: 'Статистика',

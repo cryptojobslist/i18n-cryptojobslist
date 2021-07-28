@@ -21,6 +21,7 @@ const common = {
   engineering: 'Engineering',
   wePayInCrypto: 'Wir zahlen in crypto',
   jobs: 'Jobs',
+  talent: 'Kandidaten',
   companies: 'Firmen',
   salaries: 'Gehälter',
   stats: 'Stats',
