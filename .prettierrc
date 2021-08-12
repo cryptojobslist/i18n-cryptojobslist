@@ -7,5 +7,6 @@
   "printWidth": 100,
   "proseWrap": "always",
   "jsxBracketSameLine": true,
-  "jsxSingleQuote": true
+  "jsxSingleQuote": true,
+  "tabWidth": 2
 }
