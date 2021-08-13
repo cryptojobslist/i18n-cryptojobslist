@@ -110,7 +110,7 @@ const company = {
   featuredInterview: 'Featured Interview',
   blockchainCompanyProfiles: 'Blockchain company profiles',
   viewAll: 'View all Blockchain Companies',
-  applyTo: 'Apply to crypto jobs at {{companyName}}:',
+  applyTo: 'Apply to cryptocurrency jobs at {{companyName}}:',
   teamPhoto: 'Team Photo',
   email: 'Contact email (stays private)',
   phone: 'Phone number (stays private)',
