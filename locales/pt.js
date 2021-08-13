@@ -2,7 +2,7 @@ const common = {
   lang: 'Português',
   remote: 'Remoto',
   marketing: 'Marketing',
-  defi: 'DeFi',
+  deFi: 'DeFi',
   intern: 'Estagiário',
   community: 'Comunidade',
   sales: 'Vendas',
@@ -39,8 +39,9 @@ const common = {
   gender: 'Gênero',
   company: 'Empresa',
   subscription: {
-    CTAText: "Não deixe os bancos Vencerem!",
-    CTADescription: 'Os melhores CriptoTrabalhos na sua caixa de entrada. Toda semana. inscreva-se:',
+    CTAText: 'Não deixe os bancos Vencerem!',
+    CTADescription:
+      'Os melhores CriptoTrabalhos na sua caixa de entrada. Toda semana. inscreva-se:',
     email: 'Digite seu e-mail',
   },
   titles: {
@@ -129,7 +130,7 @@ const job = {
   viewAll: 'Veja todos as vagas em',
   hiring: '{{name}} esta contratando para {{company}}',
   blockchainQR: 'QR code da vaga da {{company}}',
-  notPublished: "Esta lista ainda não foi publicada.",
+  notPublished: 'Esta lista ainda não foi publicada.',
   companiesIn: 'CriptoEmpresas em',
   similarBlockchainJobs: 'Vagas similares:',
   applyFor: 'Candidate-se para {{jobTitle}} em {{companyName}}',
@@ -153,11 +154,11 @@ const jobForm = {
   screeningQuestions: 'Perguntas de Triagem',
   question: 'Perguntas',
   question1Placeholder: 'Quem é Satoshi?',
-  question2Placeholder: "Qual a diferença entre PoW e PoS?",
+  question2Placeholder: 'Qual a diferença entre PoW e PoS?',
   question3Placeholder: 'Use perguntas simples que os candidatos podem responder em uma frase.',
   companyDetails: 'Detalhes da empresa',
   website: 'Website',
-  getPersonal: "Vamos para o pessoal!",
+  getPersonal: 'Vamos para o pessoal!',
   emailForInvoice: 'E-mail para currículos. Permanece privado.',
   firstName: 'Seu Primeiro nome',
   lastName: 'Último nome',
@@ -166,10 +167,10 @@ const jobForm = {
   aboutCrypto: 'Como você descobriu Crypto Jobs List?',
   adBudgetTitle: 'Defina seu orçamento para este anúncio:',
 }
-  
+
 const landing = {
   findYourJob: 'Ache o seu próximo CriptoTrabalho.',
-  trusted: "Confiado pelas CriptoEmpresas líderes mundiais:",
+  trusted: 'Confiado pelas CriptoEmpresas líderes mundiais:',
   discoverJobs:
     'Descubra mais de 2048+ empregos em Blockchain, criptomoedas e bitcoin abertos no Crypto Jobs List - o site número 1 para encontrar e publicar empregos. Conecte-se com empresas contratando em poucos cliques e comece sua próxima experiência no setor.',
   startHiring: 'Contrate',
@@ -183,7 +184,7 @@ const salaries = {
   totalAnnualSalary: '💸 Salário Anual Total (em USD)',
   annualSalary: 'Salário Anual (USD)',
   lastParagraph:
-    "Uma vez que sua apresentação for revista pela comunidade, você terá acesso a todos os relatórios salariais. O processo de revisão pode levar um ou dois dias, portanto, verifique esta página dentro de algumas horas.",
+    'Uma vez que sua apresentação for revista pela comunidade, você terá acesso a todos os relatórios salariais. O processo de revisão pode levar um ou dois dias, portanto, verifique esta página dentro de algumas horas.',
   likeStats: 'Gostou dessas estatísticas? - Peça a seus amigos que contribuam.',
   yearsExperience: 'Anos de experiência',
   yearsAtCompany: 'Anos na empresa',
