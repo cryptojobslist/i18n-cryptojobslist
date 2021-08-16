@@ -131,7 +131,7 @@ const job = {
   blockchainQR: '{{company}} Blockchain Jobs QR code',
   notPublished: 'Dieses Angebot ist noch nicht veröffentlicht.',
   companiesIn: 'Blockchainfirmen in',
-  similarBlockchainJobs: 'Ähnliche Blockchain Jobs:',
+  similarBlockchainJobs: 'Ähnliche Blockchain {{category}} Jobs:',
   applyFor: 'Bewerbe dich für {{jobTitle}} bei {{companyName}}',
   yourFullName: 'Dein Vollständiger Name',
   currentLocation: 'Aktueller Standort',

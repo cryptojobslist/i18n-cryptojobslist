@@ -131,7 +131,7 @@ const job = {
   blockchainQR: '{{company}} QR код',
   notPublished: 'Ещё не опубликавано',
   companiesIn: 'Крипто компании в',
-  similarBlockchainJobs: 'Похожие крипто работы:',
+  similarBlockchainJobs: 'Похожие {{category}} вакансии в крипто:',
   applyFor: 'Откликнуться на {{jobTitle}} в {{companyName}}',
   yourFullName: 'Полное имя',
   currentLocation: 'Текущее местоположение',

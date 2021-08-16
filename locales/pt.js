@@ -132,7 +132,7 @@ const job = {
   blockchainQR: 'QR code da vaga da {{company}}',
   notPublished: 'Esta lista ainda não foi publicada.',
   companiesIn: 'CriptoEmpresas em',
-  similarBlockchainJobs: 'Vagas similares:',
+  similarBlockchainJobs: 'Vagas de {{category}} similares:',
   applyFor: 'Candidate-se para {{jobTitle}} em {{companyName}}',
   yourFullName: 'Seu Nome Completo',
   currentLocation: 'Sua Localização atual',

@@ -130,14 +130,14 @@ const job = {
   hiring: '{{name}} is hiring for {{company}}',
   blockchainQR: '{{company}} blockchain jobs QR code',
   notPublished: "This listing hasn't been published yet.",
-  companiesIn: 'Blockchain Companies in',
-  similarBlockchainJobs: 'Similar Blockchain jobs:',
+  companiesIn: 'Cryptocurrency Companies in',
+  similarBlockchainJobs: 'Similar Blockchain {{category}} jobs:',
   applyFor: 'Apply for {{jobTitle}} at {{companyName}}',
   yourFullName: 'Your Full Name',
   currentLocation: 'Current Location',
   salaryExpectations: 'Salary expectations',
   inviteCollegues:
-    'Invite your collegues to <b>recommend</b> you after you submit this application.',
+    'Invite your colleagues to <b>recommend</b> you after you submit this application.',
   JobApplicationForm: {
     title: 'Invite your colleagues to recommend you:',
     recommendation:
