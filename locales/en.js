@@ -140,8 +140,7 @@ const job = {
     'Invite your colleagues to <b>recommend</b> you after you submit this application.',
   JobApplicationForm: {
     title: 'Invite your colleagues to recommend you:',
-    recommendation:
-      'A personal recommendation improves your chances of landing an interview by 27%. That&apos;s a lot!',
+    recommendation: `A personal recommendation improves your chances of landing an interview by 27%. That's a lot!`,
   },
 }
 
