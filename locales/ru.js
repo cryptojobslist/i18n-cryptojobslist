@@ -136,7 +136,7 @@ const job = {
   yourFullName: 'Полное имя',
   currentLocation: 'Текущее местоположение',
   salaryExpectations: 'Ожедаемая зарплата',
-  inviteCollegues:
+  inviteColleagues:
     'Ты сможешь <b>пригласить</b> коллег дать тебе рекомендовать, сразу после подачи на эту вакансию.',
   JobApplicationForm: {
     title: 'Пригласи коллег дать тебе рекомендацию:',

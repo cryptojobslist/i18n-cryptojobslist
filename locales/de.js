@@ -136,7 +136,7 @@ const job = {
   yourFullName: 'Dein Vollständiger Name',
   currentLocation: 'Aktueller Standort',
   salaryExpectations: 'Gehaltserwartung',
-  inviteCollegues: 'Lade Deine Mitarbeiter ein dich nach dieser Bewerbung zu <b>empfehlen</b>.',
+  inviteColleagues: 'Lade Deine Mitarbeiter ein dich nach dieser Bewerbung zu <b>empfehlen</b>.',
   JobApplicationForm: {
     title: 'Lade Deine Mitarbeiter ein dich zu empfehlen:',
     recommendation:
