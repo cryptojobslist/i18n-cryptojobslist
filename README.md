@@ -10,9 +10,13 @@ We'd love your help translating Crypto Jobs List to more languages and making cr
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1bIgFwJOXaLXfAIfRHdysLAS-BBeI5TgXZ-53wagbEvI/edit#gid=0) with existing translations. Edit with love and care 🥰
 
 - Clone this repo
+- Install dependencies with `yarn` or `npm install`
 - Make your contribution
-- Run tests - make sure they all pass
-- before your push, run `npm version patch` to bump version up
+- Run tests `yarn test` or `npm run test`. Make sure they all pass before committing
+- Before your push, run `npm version patch` to bump version up
 - Make a pull request
 
 Thank you!
+
+
+Questions? Join our Engineering **Discord** - https://discord.gg/GgpJX8KUP9
