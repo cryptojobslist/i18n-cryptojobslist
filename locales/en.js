@@ -24,6 +24,9 @@ const common = {
   talent: 'Talent',
   companies: 'Companies',
   salaries: 'Salaries',
+  more: 'More',
+  jobCategories: 'Job Categories',
+  newsletter: 'Newsletter',
   stats: 'Stats',
   blog: 'Blog',
   postJobs: 'Post jobs',
@@ -167,7 +170,7 @@ const jobForm = {
 }
 
 const landing = {
-  findYourJob: 'Find your next blockchain job.',
+  h1: `The web's biggest list of Cryptocurrency Jobs and Blockchain Jobs.`,
   trusted: "Trusted by World's leading Blockchain Companies:",
   discoverJobs:
     'Discover over 2048+ open blockchain, crypto currency and bitcoin jobs on Crypto Jobs List — the #1 site to find and post jobs. Connect with companies hiring in a few clicks and begin your next experience in the industry.',

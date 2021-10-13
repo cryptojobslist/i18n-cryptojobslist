@@ -23,6 +23,9 @@ const common = {
   talent: 'Кандидаты',
   companies: 'Компании',
   salaries: 'Зарплаты',
+  more: 'Меню',
+  jobCategories: 'Меню',
+  newsletter: 'Имэйл Рассылка',
   stats: 'Статистика',
   blog: 'Блог',
   postJobs: 'Нанять',
@@ -169,8 +172,8 @@ const jobForm = {
 }
 
 const landing = {
-  findYourJob: 'Самый большой сайт для поиска работы в Блокчейи и Криптовалютах',
-  trusted: 'Лучшие Блокчейи и Крипто компании мира пользуются нами:',
+  h1: 'Самый большой сайт для поиска работы в Блокчейн и Криптовалютах',
+  trusted: 'Лучшие Блокчейн и Крипто компании мира нанимают через нас:',
   discoverJobs:
     'Discover over 2048+ open blockchain, crypto currency and bitcoin jobs on Crypto Jobs List — the #1 site to find and post jobs. Connect with companies hiring in a few clicks and begin your next experience in the industry.',
   startHiring: 'Найми профессионалов!',

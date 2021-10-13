@@ -169,7 +169,7 @@ const jobForm = {
 }
 
 const landing = {
-  findYourJob: 'Ache o seu próximo CriptoTrabalho.',
+  h1: 'Ache o seu próximo CriptoTrabalho.',
   trusted: 'Confiado pelas CriptoEmpresas líderes mundiais:',
   discoverJobs:
     'Descubra mais de 2048+ empregos em Blockchain, criptomoedas e bitcoin abertos no Crypto Jobs List - o site número 1 para encontrar e publicar empregos. Conecte-se com empresas contratando em poucos cliques e comece sua próxima experiência no setor.',

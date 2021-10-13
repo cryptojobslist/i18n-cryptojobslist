@@ -161,7 +161,7 @@ const jobForm = {
 }
 
 const landing = {
-  findYourJob: 'Finde deinen nächsten Blockchain Job.',
+  h1: 'Finde deinen nächsten Blockchain Job.',
   trusted: 'Wir helfen weltweit führenden Blockchainfirmen:',
   discoverJobs:
     'Entdecke über 2048+ offene Blockchain-, Cryptowährungs- and Bitcoin-Jobs auf Crypto Jobs List — Die #1 Website für Arbeitssuchende und Arbeitgeber. Verbinde dich mit erstklassigen Firmen und beginne dein nächsten Karriereschritt.',
