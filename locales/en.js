@@ -47,8 +47,8 @@ const common = {
     email: 'Enter your e-mail',
   },
   titles: {
-    'hire-blockchain-talent': 'Hire TOP Blockchain Talent',
-    companies: 'Blockchain Companies that share your values',
+    'hire-blockchain-talent': 'Hire TOP Web3, Crypto and Blockchain Talent',
+    companies: 'Crypto Companies that share your values',
   },
   footer: {
     browseRole: 'Browse crypto jobs by Role',
@@ -111,8 +111,8 @@ const company = {
   vacationPolicy: 'Vacation Policy',
   founded: 'Founded',
   featuredInterview: 'Featured Interview',
-  blockchainCompanyProfiles: 'Blockchain company profiles',
-  viewAll: 'View all Blockchain Companies',
+  blockchainCompanyProfiles: 'Web3 company profiles',
+  viewAll: 'View all Companies',
   applyTo: 'Apply to cryptocurrency jobs at {{companyName}}:',
   teamPhoto: 'Team Photo',
   email: 'Contact email (stays private)',
@@ -131,10 +131,10 @@ const job = {
   posted: 'Posted on {{date}}',
   viewAll: 'View all blockchain jobs at',
   hiring: '{{name}} is hiring for {{company}}',
-  blockchainQR: '{{company}} blockchain jobs QR code',
+  blockchainQR: '{{company}} crypto jobs QR code',
   notPublished: "This listing hasn't been published yet.",
   companiesIn: 'Cryptocurrency Companies in',
-  similarBlockchainJobs: 'Similar Blockchain {{category}} jobs:',
+  similarBlockchainJobs: 'Similar Web3 {{category}} jobs:',
   applyFor: 'Apply for {{jobTitle}} at {{companyName}}',
   yourFullName: 'Your Full Name',
   currentLocation: 'Current Location',
@@ -148,7 +148,7 @@ const job = {
 }
 
 const jobForm = {
-  jobTitlePlaceholder: 'Blockchain Engineer',
+  jobTitlePlaceholder: 'Solidity Engineer',
   jobLocationPlaceholder: 'Leave blank if your listing is 100% Remote',
   aboutCompany: 'About your company',
   salaryRange: 'Salary Range',
@@ -170,18 +170,18 @@ const jobForm = {
 }
 
 const landing = {
-  h1: `The web's biggest list of Cryptocurrency Jobs and Blockchain Jobs.`,
+  h1: `The web's biggest list of Cryptocurrency Jobs, Blockchain and Web3 Jobs.`,
   trusted: "Trusted by World's leading Blockchain Companies:",
   discoverJobs:
-    'Discover over 2048+ open blockchain, crypto currency and bitcoin jobs on Crypto Jobs List — the #1 site to find and post jobs. Connect with companies hiring in a few clicks and begin your next experience in the industry.',
+    'Discover over 2048+ open blockchain, cryptocurrency, Web3 jobs and Bitcoin jobs on Crypto Jobs List — the #1 site to find and post jobs. Connect with companies hiring in a few clicks and begin your next experience in the industry.',
   startHiring: 'Start hiring',
   featuredOn: 'Crypto Jobs List is featured on:',
   hiringTalent: 'Hiring {{keyword}} Talent?',
 }
 
 const salaries = {
-  title: 'Blockchain Salaries',
-  benchmark: 'Benchmark your compensation against others.',
+  title: 'Web3 Salaries',
+  benchmark: 'Benchmark your salary against others.',
   totalAnnualSalary: '💸 Total Annual Salary (in USD)',
   annualSalary: 'Annual Salary (USD)',
   lastParagraph:
