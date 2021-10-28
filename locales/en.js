@@ -25,7 +25,7 @@ const common = {
   companies: 'Companies',
   salaries: 'Salaries',
   more: 'More',
-  jobCategories: 'Job Categories',
+  categories: 'Job Categories',
   newsletter: 'Newsletter',
   stats: 'Stats',
   blog: 'Blog',
