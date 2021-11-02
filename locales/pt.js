@@ -25,6 +25,7 @@ const common = {
   companies: 'Empresas',
   salaries: 'Salários',
   stats: 'Estatísticas',
+  more: 'Mais',
   blog: 'Blog',
   postJobs: 'Postar vagas',
   jobTitle: 'Título da Vaga',

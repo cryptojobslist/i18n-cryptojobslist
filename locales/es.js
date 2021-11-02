@@ -24,6 +24,7 @@ const common = {
   talent: 'Talento',
   companies: 'Empresas',
   salaries: 'Salarios',
+  more: 'Más',
   stats: 'Estadísticas',
   blog: 'Blog',
   postJobs: 'Subir oferta de trabajo',

@@ -24,6 +24,7 @@ const common = {
   talent: 'Kandidaten',
   companies: 'Firmen',
   salaries: 'Gehälter',
+  more: 'Mehr',
   stats: 'Stats',
   blog: 'Blog',
   postJobs: 'Angebot platzieren',
@@ -122,7 +123,7 @@ const company = {
 
 const job = {
   apply: 'Bewerbe dich jetzt',
-  featured: 'Featured Job',
+  featured: 'Top Stelle',
   applications: 'Bewerbungen',
   'description-title': 'Job Beschreibung',
   posted: 'Platziert am {{date}}',
