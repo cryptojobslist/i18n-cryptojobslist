@@ -139,7 +139,7 @@ const job = {
   applyFor: 'Откликнуться на {{jobTitle}} в {{companyName}}',
   yourFullName: 'Полное имя',
   currentLocation: 'Текущее местоположение',
-  salaryExpectations: 'Ожедаемая зарплата',
+  salaryExpectations: 'Текущая зарплата',
   inviteColleagues:
     'Ты сможешь <b>пригласить</b> коллег дать тебе рекомендовать, сразу после подачи на эту вакансию.',
   JobApplicationForm: {

@@ -137,7 +137,7 @@ const job = {
   applyFor: 'Solicite para para la vacante de {{jobTitle}} en {{companyName}}',
   yourFullName: 'Su Nombre Completo',
   currentLocation: 'Localización Actual',
-  salaryExpectations: 'Expectativa salarial',
+  salaryExpectations: 'Salario actual',
   inviteColleagues:
     'Invita a tus colegas para que te <b>recomienden</b> después de enviar la solicitud.',
   JobApplicationForm: {
