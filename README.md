@@ -7,7 +7,7 @@ Hello! This repo contains all the i18n tokens we use in prod to translate https:
 
 We'd love your help translating Crypto Jobs List to more languages and making crypto and blockchain career opportunities available to more communities worldwide.
 
-[Spreadsheet](https://docs.google.com/spreadsheets/d/1bIgFwJOXaLXfAIfRHdysLAS-BBeI5TgXZ-53wagbEvI/edit#gid=0) with existing translations. Edit with love and care 🥰
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bIgFwJOXaLXfAIfRHdysLAS-BBeI5TgXZ-53wagbEvI/edit#gid=0) with existing translations. Edit with love and care 🥰. Updating the spreadsheet is not mandatory. For reference purposes.
 
 1. Clone this repo
 1. Install dependencies with `yarn` or `npm install`
