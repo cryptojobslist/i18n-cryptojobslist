@@ -149,6 +149,7 @@ const job = {
 
 const jobForm = {
   jobTitlePlaceholder: 'Solidity Engineer',
+  jobTitleAllCapsWarning: 'Please use Title Case instead of ALL CAPS',
   jobLocationPlaceholder: 'Leave blank if your listing is 100% Remote',
   aboutCompany: 'About your company',
   salaryRange: 'Salary Range',
