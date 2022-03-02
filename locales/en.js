@@ -201,10 +201,11 @@ const salaries = {
 const cryptoWordle = {
   title: 'Crypto Wordle',
   guessedWord: 'You have guessed the crypto word!',
+  countDown: 'New Crypto Wordle in:',
   lostWord: 'You lost!',
   twitterShare: 'Share your result',
   wordOfTheDay: 'Crypto word of the day:',
-  tutorialText1: 'You have to guess the word in <b>{{tries}} tries</b> in order to win the game. The color of the tiles will tell you how close your game was to the word.<br><br>To get started, enter a word then press <b>ENTER</b>. For example:',
+  tutorialText1: 'You have to guess the word in <b>{{tries}} tries</b> in order to win the game. The color of the tiles will tell you how close your guess was to the word.<br><br>To get started, enter a word then press <b>ENTER</b>. For example:',
   tutorialText2: 'The letters <b>Y</b> and <b>T</b> are not used in the word at all.<br><br>The letters <b>R</b> and <b>P</b> are used in the word but in the wrong spot.<br><br>The letters <b>C</b> and <b>O</b> are in the correct spot.<br><br>The <b>WORDLE</b> will refresh each day.',
 }
 
